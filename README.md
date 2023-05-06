@@ -1,4 +1,4 @@
-# Simple API client builded in sinatra.rb
+# Simple API builded in sinatra.rb
 
 ## Hot it works?
 1. Be sure you get a APIKEY from https://gnews.io/
